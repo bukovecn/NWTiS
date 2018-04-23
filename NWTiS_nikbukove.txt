@@ -1,0 +1,11 @@
+#Konfiguracija NWTIS grupa 2
+#Mon Mar 26 16:12:19 CEST 2018
+interval.za.serijalizaciju=60
+skup.kodova.znakova=UTF-8
+maks.broj.zahtjeva.cekanje=20
+port=8000
+admin.nikbukove=121212
+admin.pero=12345
+datoteka.evidencije.rada=NWTiS_nikbukove_evidencija_rada.bin
+maks.broj.radnih.dretvi=10
+admin.kata=872372

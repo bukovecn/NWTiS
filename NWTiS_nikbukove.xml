@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Konfiguracija NWTIS grupa 2</comment>
+<entry key="interval.za.serijalizaciju">60</entry>
+<entry key="skup.kodova.znakova">UTF-8</entry>
+<entry key="maks.broj.zahtjeva.cekanje">20</entry>
+<entry key="port">8000</entry>
+<entry key="admin.nikbukove">121212</entry>
+<entry key="admin.pero">12345</entry>
+<entry key="datoteka.evidencije.rada">NWTiS_nikbukove_evidencija_rada.bin</entry>
+<entry key="maks.broj.radnih.dretvi">10</entry>
+<entry key="admin.kata">872372</entry>
+</properties>
